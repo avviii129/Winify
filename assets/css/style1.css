@@ -1,0 +1,77 @@
+.bottom{
+    position: sticky;
+    bottom: 0;
+	height:130px;
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:end;
+    flex-direction: column; 
+	padding:10px 50px 0px 50px;
+}
+
+.icons{
+    margin:15px 24px 0px 0px;
+	align-items:center;
+}
+.icons i{
+    cursor: pointer;
+}
+
+
+
+.songItemContainer{
+    margin-top: 74px;
+	justify-content:center;
+}
+
+.songItem{
+    height: 55px;
+    display: flex;
+    background-color:#111111;
+    color: white;
+    margin: 12px 0;
+    justify-content: space-between;
+    align-items: center;
+    border-radius:6px;
+}
+
+.songItem img{
+    width: 40px;
+    margin: 0 5px;
+    border-radius:2px;
+}
+
+.timestamp{
+    margin: 0 23px;
+}
+
+.timestamp i{
+    cursor: pointer;
+}
+
+.songInfo{
+    position: absolute;
+    left: 4vw;
+    font-weight:600;
+}
+
+.songInfo img{
+    opacity: 0;
+    transition: opacity 0.4s ease-in;
+}
+
+#gif{
+	height:80px;
+	width:70px;
+	margin:0px 5px 0px 0px;
+}
+
+#myProgressBar{
+	color:
+}
+
+.ls{
+	 font-weight:600;
+}
