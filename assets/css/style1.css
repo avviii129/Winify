@@ -12,7 +12,7 @@
 }
 
 .icons{
-    margin:15px 24px 0px 0px;
+    margin:15px 0px 0px 0px;
 	align-items:center;
 }
 .icons i{
@@ -69,7 +69,7 @@
 }
 
 #myProgressBar{
-	color:
+	width:140px;
 }
 
 .ls{
